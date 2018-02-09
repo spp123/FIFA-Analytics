@@ -1,7 +1,7 @@
 library(dplyr)
 
 # Read data
-ff <- read.csv("/Users/Woody/Documents/Namwoo/University of Maryland/MBA Case Competition/fifa-18-dataset.csv", stringsAsFactors = F)
+ff <- read.csv("fifa-18-dataset.csv", stringsAsFactors = F)
 fifa <- ff
 
 # Cleaning the data
