@@ -1,3 +1,6 @@
+## First analysis to find out soccer players who have the highest Rating * Skill Rating scores for each position and each country
+
+
 library(dplyr)
 
 # Read data
